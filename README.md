@@ -38,19 +38,19 @@
 | --- | --- |
 | <img width="300" height="150" alt="two_generated_epoch_10" src="https://github.com/user-attachments/assets/77df49f8-590e-463b-a297-7402c0c76194" /> | <img width="300" height="150" alt="two_generated_epoch_2000" src="https://github.com/user-attachments/assets/27ac7e2e-fe92-4e37-a6cd-1cc4f59c78be" /> |
 
-### 🏔 Горы
+### Горы
 
 | Эпоха 10 | Эпоха 500 |
 | --- | --- |
 | <img width="300" height="150" alt="two_generated_epoch_10" src="https://github.com/user-attachments/assets/6aa6bc5c-bce0-453f-a2dc-ac5aea42e3bb" /> | <img width= "300" height="150" alt="two_generated_epoch_500" src="https://github.com/user-attachments/assets/b6720eeb-7eed-4e58-9d6d-4f04baeeb82d" /> |
 
-### 🛡 Логотипы
+### Логотипы
 
 | Эпоха 10 | Эпоха 2000 |
 | --- | --- |
 | <img width="300" height="150" alt="two_generated_epoch_10" src="https://github.com/user-attachments/assets/09af6f84-7ea5-4116-b71b-b907ab92fa9d" /> | <img width="300" height="150" alt="two_generated_epoch_2000" src="https://github.com/user-attachments/assets/48c992d1-5cfb-4ee8-9c6f-2a96ea252263" /> |
 
-### 🏢 Здания
+### Здания
 
 | Эпоха 10 | Эпоха 500 |
 | --- | --- |
